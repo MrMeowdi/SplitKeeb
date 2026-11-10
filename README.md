@@ -1,9 +1,8 @@
 # SplitKeeb
-# LSplit
 
 <img width="1045" height="481" alt="image" src="https://github.com/user-attachments/assets/f91a97cb-19d2-409b-b87f-dfe71b0a6baf" />
 
-Lsplit is a 58 keys split keybaord based on SUPERMINI microcontroller with ZMK firmware and bluetooth connectivity along with focussing on Ergonomics .
+SplitKeeb is a 58 keys split keybaord based on Supermini microcontroller with ZMK firmware and bluetooth connectivity along with focussing on Ergonomics .
 
 ## Features 
 
@@ -13,7 +12,7 @@ Lsplit is a 58 keys split keybaord based on SUPERMINI microcontroller with ZMK f
 
 > Bluetooth Connectivity
 
-> Good Looking (Maybe)
+> Good Looking
 
 ## BOM 
 
@@ -39,7 +38,7 @@ Lsplit is a 58 keys split keybaord based on SUPERMINI microcontroller with ZMK f
 <img width="1920" height="966" alt="NRF" src="https://github.com/user-attachments/assets/b67f8fe2-37fe-42de-b9a0-d720331648f6" />
 
 
-`TOTAL = $64.5 For Components And #38 For PCB => $103`
+`TOTAL = $64.5 For Components And $38 For PCB => $103`
 
 ## Images
 
